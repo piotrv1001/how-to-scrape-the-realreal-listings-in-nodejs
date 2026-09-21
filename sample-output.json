@@ -1,0 +1,58 @@
+[
+  {
+    "id": "54689947",
+    "sku": "GUC2150374",
+    "name": "Piston Lock Jackie Vintage",
+    "variantId": "111774434",
+    "url": "https://www.therealreal.com/products/women/handbags/shoulder-bags/gucci-piston-lock-jackie-vintage-wk717",
+    "designer": "Gucci",
+    "availability": "AVAILABLE",
+    "quantity": "1",
+    "condition": "Very Good",
+    "color": "Black",
+    "material": "Leather",
+    "gender": "Women",
+    "price": {
+      "final": { "formatted": "$865.00", "usdCents": 86500 },
+      "msrp": null,
+      "original": { "formatted": "$865.00", "usdCents": 86500 },
+      "discount": null
+    },
+    "images": [
+      "https://product-images.therealreal.com/GUC2150374_1_enlarged.jpg",
+      "https://product-images.therealreal.com/GUC2150374_2_enlarged.jpg"
+    ],
+    "obsessionCount": 208,
+    "badge": { "text": "Editors' Pick" },
+    "promotion": null,
+    "waitlisted": false
+  },
+  {
+    "id": "54825858",
+    "sku": "GUC2154648",
+    "name": "Bamboo Bamboo Shopper Vintage",
+    "variantId": "112046208",
+    "url": "https://www.therealreal.com/products/women/handbags/handle-bags/gucci-bamboo-bamboo-shopper-vintage-wn3wi",
+    "designer": "Gucci",
+    "availability": "AVAILABLE",
+    "quantity": "1",
+    "condition": "Good",
+    "color": "Neutrals",
+    "material": "Patent Leather",
+    "gender": "Women",
+    "price": {
+      "final": { "formatted": "$395.00", "usdCents": 39500 },
+      "msrp": null,
+      "original": { "formatted": "$395.00", "usdCents": 39500 },
+      "discount": null
+    },
+    "images": [
+      "https://product-images.therealreal.com/GUC2154648_1_enlarged.jpg",
+      "https://product-images.therealreal.com/GUC2154648_2_enlarged.jpg"
+    ],
+    "obsessionCount": 171,
+    "badge": { "text": "Editors' Pick" },
+    "promotion": null,
+    "waitlisted": false
+  }
+]
