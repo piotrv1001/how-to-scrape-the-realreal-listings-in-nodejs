@@ -2,6 +2,8 @@
 
 This example shows how to scrape luxury resale products in Node.js using [The RealReal Listings Scraper](https://apify.com/piotrv1001/the-realreal-listings-scraper) on Apify. It calls an existing Actor rather than implementing a marketplace scraper.
 
+![The RealReal listing records in the Apify Console](./the_realreal_scraper_results.png)
+
 ## What this example does
 
 - Calls `piotrv1001/the-realreal-listings-scraper`
